@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-rifai)
 # 💻 Tech Stack:
@@ -7,18 +6,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harys-rifai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
 [![](https://visitcount.itsvg.in/api?id=harys-rifai&icon=10&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**harys-rifai/harys-rifai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Remote
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on Dev
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: send me notify
-- 😄 Pronouns: He
-- ⚡ Fun fact: Anoying -->
+
+ started:
+🔭 I’m currently working remotely
+🌱 I’m currently learning AWS & Cloud Architecture
+👯 I’m looking to collaborate on Data Engineering & Dev Projects
+🤔 I’m looking for help with optimizing ETL pipelines
+💬 Ask me about Management Information Systems & Data Engineering
+📫 How to reach me: Send me a notification or connect via LinkedIn
+😄 Pronouns: He/Him
+⚡ Fun fact: I love turning complex data into simple insights 
