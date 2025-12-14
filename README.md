@@ -46,8 +46,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=harys-rifai&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=darkhub&no-frame=true&margin-w=15)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+</p>
 
 🔭 Currently working remotely on **Data Engineering & Cloud Projects**  
 🌱 Learning **AWS & Cloud Architecture**  
