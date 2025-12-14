@@ -1,4 +1,4 @@
-## 💻 Tech Stack
+💻 Tech Stack
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -40,16 +40,15 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 
-## 🌐 Socials
+🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-rifai) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/harys-rifai)  
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=harys-rifai&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harys-rifai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=darkhub&no-frame=true&margin-w=15)
-
 
 🔭 Currently working remotely on **Data Engineering & Cloud Projects**  
 🌱 Learning **AWS & Cloud Architecture**  
@@ -58,10 +57,9 @@
 📫 Reach me via [LinkedIn](https://linkedin.com/in/haris-rifai)  
 ⚡ Fun fact: I turn complex data into simple squad-style insights  
 
-
-## ✍️ Squad-Style Commit Captions
+✍️ Squad-Style Commit Captions
 - "🔥 Drop the script, raise the legacy — Oracle tuned, squad approved."  
 - "📦 Backup done, stress gone — DB squad sleeps easy tonight."  
 - "🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama." 
-## 📅 Contribution Calendar
+📅 Contribution Calendar
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harys-rifai&theme=github-compact)](https://github.com/harys-rifai)
