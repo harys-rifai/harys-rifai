@@ -57,6 +57,9 @@
 💬 Ask me about **Oracle, PostgreSQL, MySQL, and Data Engineering workflows**  
 📫 Reach me via [LinkedIn](https://linkedin.com/in/haris-rifai)  
 ⚡ Fun fact: I turn complex data into simple squad-style insights  
+<a href="https://www.instagram.com/journeywithlaravel/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
+</a>
 
 ✍️ Squad-Style Commit Captions
 - "🔥 Drop the script, raise the legacy — Oracle tuned, squad approved."  
