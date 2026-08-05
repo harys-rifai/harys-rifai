@@ -1,117 +1,142 @@
-# 🚀 Tech Stack & Profile
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harys-rifai/harys-rifai/main/assets/banner.png" alt="Harys Rifairys Rifai</h1>
 
-![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-
-<h1 align="center">Hi ✌️, I'm Harys Rifai</h1>
-<h3 align="center">Problem-solving journey | Beginner developer from Jakarta</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harys-rifai&label=Profile%20views&color=0e75b6&style=flat" alt="harys-rifai" /> </p>
-
-<h2>💫 About Me</h2>
-
-<p>
-  Backend Developer and <strong>Database Architect</strong> with experience in building
-  scalable, secure, and high-performance systems using <strong>Python</strong> and
-  <strong>Django</strong>. Skilled in database architecture, data modeling, query optimization,
-  API integration, real-time systems, and automation workflows.
-</p>
-
-<p>
-  Experienced with <strong>PostgreSQL, IBM Db2, MariaDB, CynosDB, Redis, Oracle Database,
-  and Microsoft SQL Server</strong>, focusing on performance tuning, indexing strategies,
-  data migration, and enterprise-grade data solutions.
-</p>
-
-<p>
-  Passionate about solving complex technical challenges and continuously expanding expertise in
-  <strong>System Design, Distributed Systems, AI-Powered Automation, Cloud Infrastructure,
-  and Scalable SaaS Architecture</strong>.
-</p>
-
-
-## 🌐 Socials:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-rifai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harysrifai@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harys-rifai&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=harys-rifai&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harys-rifai&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=merko&no-frame=true&no-bg=true&margin-w=4)
- 
-
-https://github.com/harys-rifai
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🎨 Languages & Frameworks  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-
-## 🗄️ Databases  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)  
-
-## ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Tencent Cloud](https://img.shields.io/badge/Tencent%20Cloud-00A1F1?style=for-the-badge&logo=tencentcloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)  
-
-## 📊 Tools & Analytics  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)  
-
----
-
-## 🚀 Migration Expertise  
-- Oracle → PostgreSQL (Core Banking & Enterprise)  
-- DB2 → PostgreSQL (Cloud-native workloads)  
-- SQL Server → GCP / Hybrid Cloud  
-- Legacy DB → Modern SaaS-ready architecture  
-
----
-
-## 🌐 Connect with Me  
+<h3 align="center">
+Backend Developer • Database Architect • Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/haris-rifai"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/harys-rifai"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/journeywithlaravel/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+Designing scalable applications, enterprise databases, and cloud-native solutions.
 </p>
 
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=harys-rifai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=harys-rifai&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harys-rifai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+  <a href="https://linkedin.com/in/haris-rifai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=ogoColor=white
+  </a>
+  
+  <a href="mailto:harysrifai@gmailail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/harys-rifai">
+    <imgs://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white
+  </a>
 </p>
 
 ---
 
-🔭 Currently working remotely on **Data Engineering & Cloud Projects**  
-🌱 Learning **AWS, Tencent Cloud & Cloud Architecture**  
-👯 Open to collaborate on **ETL pipelines, DevOps, and Migration solutions**  
-💬 Ask me about **Oracle, PostgreSQL, MySQL, and Data Engineering workflows**  
-⚡ Fun fact: I turn complex data into simple squad-style insights  
+## 💫 About Me
+
+Backend Developer and **Database Architect** experienced in building scalable, secure, and high-performance systems using Python and Django.
+
+Specialized in **database architecture, performance tuning, query optimization, data migration, API integration, and cloud-native solutions** across enterprise environments.
+
+### Core Expertise
+
+- Backend Development (Python, Django, REST API)
+- Database Architecture & Optimization
+- Enterprise Data Migration
+- Cloud Infrastructure
+- System Design
+- Distributed Systems
+- Automation & Integration
 
 ---
 
-✍️ Squad-Style Commit Captions  
-- "🔥 Drop the script, raise the legacy — Oracle tuned, squad approved."  
-- "📦 Backup done, stress gone — DB squad sleeps easy tonight."  
-- "🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama."  
+## 🗄️ Database Technologies
 
-📅 Contribution Calendar  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app
+<p align="left">
+
+adge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.r-the-badge&logo=oracle&logoColor=white"/>
+
+.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+<img src="https-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+---
+
+## 💻 Backend Technologies
+
+<p align="left">
+
+.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColorjango_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoe
+
+adge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+<img src="https://img.shields.ogo=nginx&logoColor=white"/>
+
+.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="elds.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+https://img.shields.io/badge/Tencent_Cloud-00A1F1?style=for-the-badge
+
+terraform&logoColor=white"/>
+
+ields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Migration Expertise
+
+✔ Oracle → PostgreSQL  
+✔ IBM Db2 → PostgreSQL  
+✔ SQL Server → PostgreSQL  
+✔ MySQL / MariaDB → PostgreSQL  
+✔ Legacy Database Modernization  
+✔ Enterprise Cloud Migration
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harystheme=tokyonight&hide_border=true
+
+<img height="170" src="https://github-readme-stats.vercelrname=harys-rifai&layout=compact&theme=tokyonight&hide_border=true
+</p>
+
+<p align="center">
+olab.com?user=harys-rifai&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Currently
+
+🔭 Building enterprise-grade backend and database solutions
+
+🌱 Learning Cloud Architecture, Kubernetes & Distributed Systems
+
+👯 Open for collaboration on Backend, Database Migration, and Cloud Projects
+
+💬 Ask me about PostgreSQL, Oracle, IBM Db2, Redis, SQL Server, and Django
+
+⚡ Passionate about scalable systems and data architecture
