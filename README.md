@@ -59,15 +59,7 @@
   <a href="https://github.com/harys-rifai"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/journeywithlaravel/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=harys-rifai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=harys-rifai&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harys-rifai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harys-rifai&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+ 
 
 🔭 Currently working remotely on **Data Engineering & Cloud Projects**  
 🌱 Learning **AWS, Tencent Cloud & Cloud Architecture**  
