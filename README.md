@@ -69,6 +69,6 @@
 
 ✍️ Squad-Style Commit Captions <br>
 🔥 Drop the script, raise the legacy Oracle tuned, squad approved. <br>
-📦 Backup done, stress gone — DB squad sleeps easy tonight.<br>
+📦 Backup done, stress gone DB squad sleeps easy tonight.<br>
 🧹 Cleaned up sessions<br>
 📅 Contribution Calendar   
