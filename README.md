@@ -1,13 +1,13 @@
-
+⚡
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
-<h1 align="center">Hi ✌️, I'm Harys Rifai</h1>
+<h1 align="center">Hi ✌️, I'm Harys Ri⚡ai</h1>
 <h3 align="center">Problem-solving journey | Beginner developer from Jakarta</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harys-rifai&label=Profile%20views&color=0e75b6&style=flat" alt="harys-rifai" /> </p>
 
-<h2>💫 About Me</h2>
+<h2>⚡ About Me</h2>
 
 <p>
   Backend Developer and <strong>Database Architect</strong> with experience in building
@@ -48,10 +48,10 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)  
  
 🚀 Migration Expertise  
-- Oracle → PostgreSQL (Core Banking & Enterprise)  
-- DB2 → PostgreSQL (Cloud-native workloads)  
-- SQL Server → GCP / Hybrid Cloud  
-- Legacy DB → Modern SaaS-ready architecture  
+⚡ Oracle → PostgreSQL (Core Banking & Enterprise)  
+⚡ DB2 → PostgreSQL (Cloud-native workloads)  
+⚡ SQL Server → GCP / Hybrid Cloud  
+⚡ Legacy DB → Modern SaaS-ready architecture  
 
  🌐 Connect with Me  
 <p align="center">
@@ -72,4 +72,4 @@
 📦 Backup done, stress gone — DB squad sleeps easy tonight.
 🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama.
 📅 Contribution Calendar  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app)
