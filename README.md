@@ -2,12 +2,12 @@
 ![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi ✌️, I'm Harys Ri⚡ai</h1>
-<h3 align="center">Problem-solving journey | Beginner developer from Jakarta</h3>
+<h3 align="center">Problem-solving journey | developer from Jakarta</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harys-rifai&label=Profile%20views&color=0e75b6&style=flat" alt="harys-rifai" /> </p>
 
-<h2>⚡ About Me</h2>
+⚡ About Me
 
 <p>
   Backend Developer and <strong>Database Architect</strong> with experience in building
@@ -67,9 +67,8 @@
 💬 Ask me about **Oracle, PostgreSQL, MySQL, and Data Engineering workflows**  
 ⚡ Fun fact: I turn complex data into simple squad-style insights  
 
-✍️ Squad-Style Commit Captions  
-🔥 Drop the script, raise the legacy — Oracle tuned, squad approved. 
-📦 Backup done, stress gone — DB squad sleeps easy tonight.
-🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama.
-📅 Contribution Calendar  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app)
+✍️ Squad-Style Commit Captions <br>
+🔥 Drop the script, raise the legacy Oracle tuned, squad approved. <br>
+📦 Backup done, stress gone — DB squad sleeps easy tonight.<br>
+🧹 Cleaned up sessions<br>
+📅 Contribution Calendar   
