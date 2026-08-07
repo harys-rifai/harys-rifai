@@ -68,8 +68,8 @@
 ⚡ Fun fact: I turn complex data into simple squad-style insights  
 
 ✍️ Squad-Style Commit Captions  
-- "🔥 Drop the script, raise the legacy — Oracle tuned, squad approved."  
-- "📦 Backup done, stress gone — DB squad sleeps easy tonight."  
-- "🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama."  
+🔥 Drop the script, raise the legacy — Oracle tuned, squad approved. 
+📦 Backup done, stress gone — DB squad sleeps easy tonight.
+🧹 Cleaned up sessions like a Jaksel barber — sharp, fast, no drama.
 📅 Contribution Calendar  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app)
